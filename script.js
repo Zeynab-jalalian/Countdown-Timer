@@ -1,0 +1,1 @@
+let num=document.querySelector('.num');
