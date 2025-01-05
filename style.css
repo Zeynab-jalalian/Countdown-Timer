@@ -11,3 +11,17 @@ body{
     justify-content: center;
     align-items: center;
 }
+.num{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    border: 2px solid white;
+    width: 300px;
+    height: 100px;
+    padding:30px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+    user-select: none;
+}
